@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Push Not</string>
+    <string name="handle_notification_now">handle_now</string>
+</resources>
